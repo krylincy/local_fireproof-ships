@@ -1,6 +1,6 @@
 name = "Fireproof Boats"
 author = "krylincy"
-version = "1.1"
+version = "1.0"
 description = [[Boats and boat equipment is not flammable anymore. Be save on the sea!
 
 Version: ]]..version
